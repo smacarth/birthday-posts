@@ -1,0 +1,24 @@
+development:
+  adapter: postgresql
+  encoding: UTF8
+  reconnect: false
+  database: birthday_development
+  pool: 5
+  username: postgres
+  password: 
+  host: localhost
+  
+test:
+  adapter: postgresql
+  encoding: unicode
+  reconnect: false
+  database: birthday_test
+  pool: 5
+  username: postgres
+  password: 
+  host: localhost
+
+production:  
+  adapter: postgresql
+  encoding: UTF8
+  database: birthday_production

@@ -1,0 +1,1 @@
+Posts birthday messages to friends's walls. Edit koala.rb and facebook.rb with app information to get started.

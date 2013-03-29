@@ -1,0 +1,3 @@
+FB_USER = ''
+FB_PASS = ''
+HEROKU_APP_NAME = ''

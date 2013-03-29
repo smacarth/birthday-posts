@@ -1,0 +1,14 @@
+development:
+ app_id: 
+ secret: 
+ callback_url: http://localhost:3000/
+
+production:
+ app_id: 
+ secret: 
+ callback_url: http://APPNAME.heroku.com/
+
+test:
+ app_id: 
+ secret: 
+ callback_url: http://localhost:3000/
