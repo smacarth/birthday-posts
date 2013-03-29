@@ -1,1 +1,1 @@
-Posts birthday messages to friends's walls. Edit koala.rb and facebook.rb with app information to get started.
+Posts birthday messages to friends's walls. Edit facebook.rb, facebook.yml, and facebook_users.js with your app information to get started. Not compatible with FB Feb 2013 breaking changes.
